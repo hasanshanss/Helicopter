@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a4af158-ced0-4e0f-8796-7d7df2e2ad2b": {
+      "ProjectGuid": "6a4af158-ced0-4e0f-8796-7d7df2e2ad2b",
+      "DisplayName": "Helicopter.API",
+      "ColorIndex": 0
+    },
+    "629f67bc-301d-4a3d-a0f9-47949a7f5903": {
+      "ProjectGuid": "629f67bc-301d-4a3d-a0f9-47949a7f5903",
+      "DisplayName": "Helicopter.API",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "757bb7a9-c1b6-4c52-b7b7-9e86ba17e122": {
+      "ProjectGuid": "757bb7a9-c1b6-4c52-b7b7-9e86ba17e122",
+      "DisplayName": "Helicopter.DAL",
+      "ColorIndex": 2
+    },
+    "db61a733-dbe5-406d-bf3c-946138b25d89": {
+      "ProjectGuid": "db61a733-dbe5-406d-bf3c-946138b25d89",
+      "DisplayName": "Helicopter.Services",
+      "ColorIndex": 3
+    },
+    "a35b1f49-3edc-4b7e-b5f4-5fea066283ae": {
+      "ProjectGuid": "a35b1f49-3edc-4b7e-b5f4-5fea066283ae",
+      "DisplayName": "Helicopter.ConsoleClient",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

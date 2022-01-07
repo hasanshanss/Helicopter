@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\bin\Debug\net6.0\Helicopter.Services.deps.json
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\bin\Debug\net6.0\Helicopter.Services.dll
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\bin\Debug\net6.0\ref\Helicopter.Services.dll
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\bin\Debug\net6.0\Helicopter.Services.pdb
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\bin\Debug\net6.0\Helicopter.DAL.dll
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\bin\Debug\net6.0\Helicopter.DAL.pdb
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\obj\Debug\net6.0\Helicopter.Services.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\obj\Debug\net6.0\Helicopter.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\obj\Debug\net6.0\Helicopter.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\obj\Debug\net6.0\Helicopter.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\obj\Debug\net6.0\Helicopter.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\obj\Debug\net6.0\Helicopter.Services.csproj.CopyComplete
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\obj\Debug\net6.0\Helicopter.Services.dll
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\obj\Debug\net6.0\ref\Helicopter.Services.dll
+C:\Users\User\source\repos\Helicopter\Helicopter.Services\obj\Debug\net6.0\Helicopter.Services.pdb
